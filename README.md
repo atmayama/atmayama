@@ -6,7 +6,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=atmayama&layout=compact)
 
-## Competitive Coding
+## CP
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sushanthkille&theme=default&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sushanthkille)
 
