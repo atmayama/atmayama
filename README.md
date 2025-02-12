@@ -2,14 +2,20 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=atmayama.atmayama)
 
-## Technologies
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=atmayama&layout=compact)
 
-## CP
+<img 
+    src="https://leetcard.jacoblin.cool/atmayama?theme=light&font=Lemonada&ext=heatmap" 
+    alt="LeetCode Stats"
+    href="https://leetcode.com/u/atmayama/"
+    width="200"
+/>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sushanthkille&theme=default&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sushanthkille)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/atmayama?theme=light&font=Lemonada&ext=heatmap)](https://leetcode.com/u/atmayama/)
+<img 
+    src="https://codeforces-readme-stats.vercel.app/api/card?username=sushanthkille&theme=default&disable_animations=false&show_icons=true&force_username=true" 
+    alt="Codeforces Stats"
+    href="https://codeforces.com/profile/sushanthkille"
+    width="200"
+/>
 
 ## Projects
